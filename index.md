@@ -36,6 +36,8 @@
 
 ## Unit-6
 
+[Ödev 14](6.6 Smart Sheet.pdf)
+
 ## Unit-7
 
 ## Unit-8
