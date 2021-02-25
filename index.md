@@ -38,6 +38,8 @@
 
 [Ödev 14](6.6 Smart Sheet.pdf)
 
+[Ödev 15](6.6 Smart Tests.pdf)
+
 ## Unit-7
 
 ## Unit-8
